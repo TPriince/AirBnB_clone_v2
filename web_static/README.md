@@ -1,1 +1,1 @@
-HTML and CSS.
+This directory implements webpage design.
